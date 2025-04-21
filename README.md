@@ -1,0 +1,10 @@
+The code provides some formulas to calculate Pi
+
+Run the Main, the other files contain some formulas that are recalled
+
+You need to install some library first
+
+decimal
+tqdm
+mpmath
+
